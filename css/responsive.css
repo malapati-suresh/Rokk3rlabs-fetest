@@ -1,0 +1,71 @@
+@media( max-width:1200px){
+.right-block{ padding: 20px;} 
+ 
+    
+}
+
+
+@media( max-width:992px){
+ .right-block{ padding: 10px;}
+.chain { padding: 15px 10px 10px;}
+.chain h3{ font-size: 13px; line-height: 18px;}
+.right-block ul li p { padding: 11px 10px 0;}
+
+    .logo a img { width: 100%; height: auto;}    
+    .logo a { width: 150px; margin: 0 auto;}
+    .header-rgt{ padding: 24px 20px 0 0;}
+    
+    .left-nav ul li a{ background-position: 25px 22px;}
+    .left-nav ul li a:hover {background-position: 25px 22px;}
+    
+    .left-nav ul li a.news {background-position: 25px 22px;}
+    .left-nav ul li a.news:hover {background-position: 25px 22px;}
+    
+    .left-nav ul li a.board {background-position: 25px 22px;}
+    .left-nav ul li a.board:hover {background-position: 25px 22px;}
+    
+    .left-nav ul li a.brief {background-position: 25px 22px;}
+    .left-nav ul li a.brief:hover {background-position: 25px 22px;}
+    
+}
+
+
+
+@media( max-width:767px){
+ 
+    .left-nav{ width: 30%;}
+    .right-block{ width: 70%;}
+    .cont-lft {
+    display:block;
+    float:none;
+    width:100%;
+    margin: 0;
+}
+    
+    .logo{ width: 30%;}    
+    
+    
+    
+}
+
+
+@media( max-width:599px){
+    
+.logo{ width: 40%;}    
+.left-nav{ width: 100%; display: block; height: auto;}    
+.right-block{ width: 100%; display: block; height: auto;}
+    
+    
+ 
+}
+
+
+@media( max-width:479px){
+.logo a{ width: 130px;}
+.logo {
+    width: 50%;
+}    
+    
+    
+ 
+}
